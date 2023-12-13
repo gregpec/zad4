@@ -5,9 +5,9 @@ using System.ComponentModel.Design;
 using System.Xml.Linq;
 string plec = "Kobieta";
 string name = "Ewa";
-int age = 17;
+int age = 30;
 
-if (plec == ("Kobieta") && name == "Ewa " && age == 30)
+if (plec == ("Kobieta") && name == "Ewa" && age == 30)
 {
     Console.WriteLine("Ewa, lat 30");
 }
